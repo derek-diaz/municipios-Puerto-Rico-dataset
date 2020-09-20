@@ -544,66 +544,100 @@
   {
     "city": "San Lorenzo",
     "state": "Puerto Rico",
-    "zipCode": ["00754"]
+    "zipCode": [
+      "00754"
+    ]
   },
   {
     "city": "San Sebastián",
     "state": "Puerto Rico",
-    "zipCode": ["00685"]
+    "zipCode": [
+      "00685"
+    ]
   },
   {
     "city": "Santa Isabel",
     "state": "Puerto Rico",
-    "zipCode": ["00757"]
+    "zipCode": [
+      "00757"
+    ]
   },
   {
     "city": "Toa Alta",
     "state": "Puerto Rico",
-    "zipCode": ["00953", "00954"]
+    "zipCode": [
+      "00953",
+      "00954"
+    ]
   },
   {
     "city": "Toa Baja",
     "state": "Puerto Rico",
-    "zipCode": ["00949", "00950", "00951", "00952"]
+    "zipCode": [
+      "00949",
+      "00950",
+      "00951",
+      "00952"
+    ]
   },
   {
     "city": "Trujillo Alto",
     "state": "Puerto Rico",
-    "zipCode": ["00976","00977","00978"]
+    "zipCode": [
+      "00976",
+      "00977",
+      "00978"
+    ]
   },
   {
     "city": "Utuado",
     "state": "Puerto Rico",
-    "zipCode": ["00641", "00611"]
+    "zipCode": [
+      "00641",
+      "00611"
+    ]
   },
   {
     "city": "Vega Alta",
     "state": "Puerto Rico",
-    "zipCode": ["00692"]
+    "zipCode": [
+      "00692"
+    ]
   },
   {
     "city": "Vega Baja",
     "state": "Puerto Rico",
-    "zipCode": ["00693", "00694"]
+    "zipCode": [
+      "00693",
+      "00694"
+    ]
   },
   {
     "city": "Vieques",
     "state": "Puerto Rico",
-    "zipCode": ["00765"]
+    "zipCode": [
+      "00765"
+    ]
   },
   {
     "city": "Villalba",
     "state": "Puerto Rico",
-    "zipCode": ["00766"]
+    "zipCode": [
+      "00766"
+    ]
   },
   {
     "city": "Yabucoa",
     "state": "Puerto Rico",
-    "zipCode": ["00767"]
+    "zipCode": [
+      "00767"
+    ]
   },
   {
     "city": "Yauco",
     "state": "Puerto Rico",
-    "zipCode": ["00698"]
+    "zipCode": [
+      "00698"
+    ]
   }
 ]
