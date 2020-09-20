@@ -1,322 +1,609 @@
 [
   {
     "city": "Adjuntas",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00601",
+      "00631"
+    ]
   },
   {
     "city": "Aguada",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00602"
+    ]
   },
   {
     "city": "Aguadilla",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00603",
+      "00604",
+      "00605",
+      "00690"
+    ]
   },
   {
     "city": "Aguas Buenas",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00703"
+    ]
   },
   {
     "city": "Aibonito",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00705",
+      "00786"
+    ]
   },
   {
     "city": "Añasco",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00610",
+      "00611"
+    ]
   },
   {
     "city": "Arecibo",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00612",
+      "00613",
+      "00614",
+      "00616",
+      "00652",
+      "00688"
+    ]
   },
   {
     "city": "Arroyo",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00714"
+    ]
   },
   {
     "city": "Barceloneta",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00617"
+    ]
   },
   {
     "city": "Barranquitas",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00794"
+    ]
   },
   {
     "city": "Bayamón",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00956",
+      "00957",
+      "00959",
+      "00961",
+      "00960",
+      "00958"
+    ]
   },
   {
     "city": "Cabo Rojo",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00623",
+      "00622"
+    ]
   },
   {
     "city": "Caguas",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00725",
+      "00727",
+      "00726"
+    ]
   },
   {
     "city": "Camuy",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00627"
+    ]
   },
   {
     "city": "Canóvanas",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00729",
+      "00745"
+    ]
   },
   {
     "city": "Carolina",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00979",
+      "00982",
+      "00983",
+      "00985",
+      "00987",
+      "00981",
+      "00984",
+      "00986",
+      "00988"
+    ]
   },
   {
     "city": "Cataño",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00962",
+      "00963"
+    ]
   },
   {
     "city": "Cayey",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00736",
+      "00737"
+    ]
   },
   {
     "city": "Ceiba",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00735",
+      "00742"
+    ]
   },
   {
     "city": "Ciales",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00638"
+    ]
   },
   {
     "city": "Cidra",
-    "state": "Puerto Rico"
-  },
-  {
-    "city": "Cidra",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00739"
+    ]
   },
   {
     "city": "Coamo",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00769"
+    ]
   },
   {
     "city": "Comerío",
-    "state": "Puerto Rico"
-  },
-  {
-    "city": "Comerio",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00782"
+    ]
   },
   {
     "city": "Corozal",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00783"
+    ]
   },
   {
     "city": "Culebra",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00775"
+    ]
   },
   {
     "city": "Dorado",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00646"
+    ]
   },
   {
     "city": "Fajardo",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00738",
+      "00740"
+    ]
   },
   {
     "city": "Florida",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00650"
+    ]
   },
   {
     "city": "Guánica",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00653",
+      "00647"
+    ]
   },
   {
     "city": "Guayama",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00784",
+      "00704",
+      "00785"
+    ]
   },
   {
     "city": "Guayanilla",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00656"
+    ]
   },
   {
     "city": "Guaynabo",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00965",
+      "00966",
+      "00968",
+      "00969",
+      "00971",
+      "00970"
+    ]
   },
   {
     "city": "Gurabo",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00778"
+    ]
   },
   {
     "city": "Hatillo",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00659"
+    ]
   },
   {
     "city": "Hormigueros",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00660"
+    ]
   },
   {
     "city": "Humacao",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00791",
+      "00792",
+      "00741"
+    ]
   },
   {
     "city": "Isabela",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00662"
+    ]
   },
   {
     "city": "Jayuya",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00664"
+    ]
   },
   {
     "city": "Juana Díaz",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00795"
+    ]
   },
   {
     "city": "Juncos",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00777"
+    ]
   },
   {
     "city": "Lajas",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00667"
+    ]
   },
   {
     "city": "Lares",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00669",
+      "00631"
+    ]
   },
   {
     "city": "Las Marías",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00670"
+    ]
   },
   {
     "city": "Las Piedras",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00771"
+    ]
   },
   {
     "city": "Loíza",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00772"
+    ]
   },
   {
     "city": "Luquillo",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00773"
+    ]
   },
   {
     "city": "Manatí",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00674"
+    ]
   },
   {
     "city": "Maricao",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00606"
+    ]
   },
   {
     "city": "Maunabo",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00707"
+    ]
   },
   {
     "city": "Mayagüez",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00680",
+      "00682",
+      "00681"
+    ]
   },
   {
     "city": "Moca",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00676"
+    ]
   },
   {
     "city": "Morovis",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00687"
+    ]
   },
   {
     "city": "Naguabo",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00718",
+      "00744"
+    ]
   },
   {
     "city": "Naranjito",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00719"
+    ]
   },
   {
     "city": "Orocovis",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00720"
+    ]
   },
   {
     "city": "Patillas",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00723"
+    ]
   },
   {
     "city": "Peñuelas",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00624"
+    ]
   },
   {
     "city": "Ponce",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00716",
+      "00717",
+      "00728",
+      "00730",
+      "00731",
+      "00733",
+      "00780",
+      "00715",
+      "00732",
+      "00734"
+    ]
   },
   {
     "city": "Quebradillas",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00678"
+    ]
   },
   {
     "city": "Rincón",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00677"
+    ]
   },
   {
     "city": "Río Grande",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00721",
+      "00745",
+      "00721"
+    ]
   },
   {
     "city": "Sabana Grande",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00637"
+    ]
   },
   {
     "city": "Salinas",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00751"
+    ]
   },
   {
     "city": "San Germán",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00683",
+      "00636"
+    ]
   },
   {
     "city": "San Juan",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": [
+      "00921",
+      "00923",
+      "00924",
+      "00929",
+      "00915",
+      "00916",
+      "00920",
+      "00909",
+      "00910",
+      "00934",
+      "00936",
+      "00917",
+      "00919",
+      "00911",
+      "00912",
+      "00913",
+      "00914",
+      "00940",
+      "00901",
+      "00902",
+      "00906",
+      "00925",
+      "00926",
+      "00927",
+      "00928",
+      "00930",
+      "00907",
+      "00908",
+      "00931",
+      "00933"
+    ]
   },
   {
     "city": "San Lorenzo",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": ["00754"]
   },
   {
     "city": "San Sebastián",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": ["00685"]
   },
   {
     "city": "Santa Isabel",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": ["00757"]
   },
   {
     "city": "Toa Alta",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": ["00953", "00954"]
   },
   {
     "city": "Toa Baja",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": ["00949", "00950", "00951", "00952"]
   },
   {
     "city": "Trujillo Alto",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": ["00976","00977","00978"]
   },
   {
     "city": "Utuado",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": ["00641", "00611"]
   },
   {
     "city": "Vega Alta",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": ["00692"]
   },
   {
     "city": "Vega Baja",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": ["00693", "00694"]
   },
   {
     "city": "Vieques",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": ["00765"]
   },
   {
     "city": "Villalba",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": ["00766"]
   },
   {
     "city": "Yabucoa",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": ["00767"]
   },
   {
     "city": "Yauco",
-    "state": "Puerto Rico"
+    "state": "Puerto Rico",
+    "zipCode": ["00698"]
   }
 ]
